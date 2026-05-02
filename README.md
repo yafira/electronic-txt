@@ -8,3 +8,7 @@ Many of these projects draw inspiration from historical and contemporary works i
 
 Each notebook represents an independent experiment or study.
 
+<img width="499" height="689" alt="1" src="https://github.com/user-attachments/assets/2fd5d9d6-170f-48ec-87d6-cc7d406381e8" />
+
+
+
