@@ -1,4 +1,4 @@
-# rwet final, ribbon logic
+# rwet final, ribbon logic using circuit python
 # adafruit qualia esp32-s3 + 2.1" 480x480 round TTL RGB display
 # uses 1 btn on A0 + GND, press for a completely fresh poem
 
