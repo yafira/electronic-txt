@@ -1,5 +1,4 @@
-# corpus.py
-# your writing — feeds the markov chain generator
+# feeds the markov chain generator
 
 CORPUS_TEXT = """
 felt knit tulle conductive thread soft silicone foam velvet gel mesh industrial felt cloud fiber
